@@ -9,6 +9,7 @@ This GitHub is to put all the generated scripts for the BarSeq analysis generate
 This was done in the laboratory of Dr. Adam Deutschbauer and Dr. Louise Glass. These scripts are run once fitness tables are received 
 for each of the 4 bacteria on which the experiments were run.
 
+_________________________________________________________________________________________________
 
 ### Scripts made for the analysis of the BarSeq results in Klebsiella michiganensis M5aI.
 
