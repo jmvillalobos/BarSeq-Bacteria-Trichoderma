@@ -34,3 +34,7 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_sca
 Negative fitness: 15
 Possitive fitness: 0
 Recovered: 14
+
+
+Script 4. Generating a heatmap to show the comparison of fitness associated with Klebciella genes when exposed to exudates from the WT strain and Trichoderma mutants.
+
