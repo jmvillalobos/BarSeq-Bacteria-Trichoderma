@@ -10,7 +10,7 @@ This was done in the laboratory of Dr. Adam Deutschbauer and Dr. Louise Glass. T
 for each of the 4 bacteria on which the experiments were run.
 
 
-The first script was run to determine the fitness profile on Herbaspirillum bacteria.
+### Scripts made for the analysis of the BarSeq results in Klebsiella michiganensis M5aI.
 
 Script 1. Scatter plot of Kleciella with spent media of WT-Trichoderma: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTKlebciella.R
@@ -40,3 +40,5 @@ Script 4. Generating a heatmap to show the comparison of fitness associated with
 
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_Klebciella.R
 
+-----------------------------------------------------------------------------------------
+### Scripts made for the analysis of the BarSeq results in Herbaspirillum seropedicae SmR1.
