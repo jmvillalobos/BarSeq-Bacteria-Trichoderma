@@ -62,6 +62,7 @@ Possitive fitness: 0
 Recovered: 5
 
 Script 7. Scatter plot of Herbaspirillum with spent media of Tmk3-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Tmk3Herbaspirillum.R
 
 Negative fitness: 17
 Possitive fitness: 1
