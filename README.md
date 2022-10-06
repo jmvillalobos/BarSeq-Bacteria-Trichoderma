@@ -1,5 +1,8 @@
 # BarSeq-Bacteria-Trichoderma
 
+##By Manuel Villalobos UC Berkeley-LBNL
+
+
 
 This GitHub is to put all the generated scripts for the BarSeq analysis generated in the Trichoderma/bacteria interaction project. 
 This was done in the laboratory of Dr. Adam Deutschbauer and Dr. Louise Glass. These scripts are run once fitness tables are received 
