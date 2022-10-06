@@ -36,5 +36,7 @@ Possitive fitness: 0
 Recovered: 14
 
 
-Script 4. Generating a heatmap to show the comparison of fitness associated with Klebciella genes when exposed to exudates from the WT strain and Trichoderma mutants.
+Script 4. Generating a heatmap to show the comparison of fitness associated with Klebciella genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
+
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_Klebciella.R
 
