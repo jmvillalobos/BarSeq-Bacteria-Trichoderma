@@ -7,4 +7,5 @@ for each of the 4 bacteria on which the experiments were run.
 
 
 The first script was run to determine the fitness profile on Herbaspirillum bacteria.
-script_scatter_WTKlebciella.R
+
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTKlebciella.R
