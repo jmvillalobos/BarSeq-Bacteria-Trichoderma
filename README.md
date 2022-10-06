@@ -8,5 +8,5 @@ for each of the 4 bacteria on which the experiments were run.
 
 The first script was run to determine the fitness profile on Herbaspirillum bacteria.
 
-Script1. Scatter plot of Kleciella with spent media of WT-Trichoderma: <sub>
+Script1. Scatter plot of Kleciella with spent media of WT-Trichoderma: </sub>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTKlebciella.R
