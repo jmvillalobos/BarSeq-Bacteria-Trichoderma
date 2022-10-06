@@ -46,3 +46,7 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Gl
 
 Script 1. Scatter plot of Herbaspirillum with spent media of WT-Trichoderma: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTHerbaspirillum.R
+
+
+Script 2. Scatter plot of Herbaspirillum with spent media of Dcr2-Trichoderma: <br/>
+
