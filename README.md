@@ -13,5 +13,4 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_sca
 
 
 Script 2. Scatter plot of Kleciella with spent media of Dcr2 mutant-Trichoderma: <br/>
-
-https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/2.Klebciella_scatterNewDcr2.pdf
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Dcr2Klebciella.R
