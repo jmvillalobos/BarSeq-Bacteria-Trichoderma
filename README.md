@@ -68,5 +68,7 @@ Negative fitness: 17
 Possitive fitness: 1
 Recovered: 5
 
+Script 8. Generating a heatmap to show the comparison of fitness associated with Herbaspirillum genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_Herbaspirillum.R
 
 
