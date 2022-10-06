@@ -44,9 +44,28 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Gl
 -----------------------------------------------------------------------------------------
 ### Scripts made for the analysis of the BarSeq results in Herbaspirillum seropedicae SmR1.
 
-Script 1. Scatter plot of Herbaspirillum with spent media of WT-Trichoderma: <br/>
+Script 5. Scatter plot of Herbaspirillum with spent media of WT-Trichoderma: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTHerbaspirillum.R
 
+Negative fitness: 
+Possitive fitness: 
+Recovered: 
 
-Script 2. Scatter plot of Herbaspirillum with spent media of Dcr2-Trichoderma: <br/>
+
+
+Script 6. Scatter plot of Herbaspirillum with spent media of Dcr2-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Dcr2Herbaspirillum.R
+
+
+Negative fitness: 17
+Possitive fitness: 0
+Recovered: 5
+
+Script 7. Scatter plot of Herbaspirillum with spent media of Tmk3-Trichoderma: <br/>
+
+Negative fitness: 17
+Possitive fitness: 1
+Recovered: 5
+
+
 
