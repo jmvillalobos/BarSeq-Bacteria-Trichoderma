@@ -1,6 +1,7 @@
 # BarSeq-Bacteria-Trichoderma
 
-##By Manuel Villalobos UC Berkeley-LBNL
+### By Manuel Villalobos
+UC Berkeley-LBNL
 
 
 
