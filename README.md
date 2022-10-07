@@ -72,3 +72,18 @@ Script 8. Generating a heatmap to show the comparison of fitness associated with
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_Herbaspirillum.R
 
 
+-----------------------------------------------------------------------------------------
+### Scripts made for the analysis of the BarSeq results in Pseudomonas simiae WCS417.
+
+Script 9. Scatter plot of Herbaspirillum with spent media of WT-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTSimiae.R
+
+Negative fitness: 38
+Possitive fitness: 10
+Recovered: 3
+
+
+
+
+
+
