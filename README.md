@@ -83,7 +83,8 @@ Negative fitness: 38
 Possitive fitness: 10
 Recovered: 3
 
-
+Script 10. Scatter plot of Pseudomonas simiae with spent media of Dcr2-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Dcr2Simiae.R
 
 
 
