@@ -47,9 +47,9 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Gl
 Script 5. Scatter plot of Herbaspirillum with spent media of WT-Trichoderma: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTHerbaspirillum.R
 
-Negative fitness: 47
-Possitive fitness: 0
-Recovered: 11
+Negative fitness: 32
+Possitive fitness: 1
+Recovered: 4
 
 
 
