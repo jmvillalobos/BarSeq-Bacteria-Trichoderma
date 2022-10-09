@@ -101,21 +101,21 @@ Recovered: 7
 
 
 Script 12. Generating a heatmap to show the comparison of fitness associated with Pseudomonas simiae genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
-
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_PSimiae.R
 
 _________________________________________________________________________________________________
 ### Scripts made for the analysis of the BarSeq results in Pseudomonas putida KT2440
 
 Script 13. Scatter plot of Pseudomonas putida with spent media of WT-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_WTPutida.R
 
+Negative fitness: 40
+Possitive fitness: 1
+Recovered: 1
 
-Negative fitness: 
-Possitive fitness: 
-Recovered:
-
-
-
-
+Script 14. Scatter plot of Pseudomonas putida with spent media of Dcr2-Trichoderma: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Dcr2Putida.R
 
+Negative fitness: 27
+Possitive fitness: 12
+Recovered: 3
