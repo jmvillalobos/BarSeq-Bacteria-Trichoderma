@@ -104,3 +104,13 @@ Script 12. Generating a heatmap to show the comparison of fitness associated wit
 
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_PSimiae.R
 
+_________________________________________________________________________________________________
+### Scripts made for the analysis of the BarSeq results in Pseudomonas putida KT2440
+
+
+
+
+
+
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Dcr2Putida.R
+
