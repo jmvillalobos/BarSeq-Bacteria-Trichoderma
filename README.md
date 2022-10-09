@@ -151,3 +151,8 @@ Recovered: 0
 
 ### Scripts made for the analysis of the BarSeq in P. simiae in response to Fusaric acid
 
+Script 19. FA 120 ug/ml: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_SimiaeFus120.R
+
+Negative fitness: 45
+Possitive fitness: 15
+Recovered: 4
