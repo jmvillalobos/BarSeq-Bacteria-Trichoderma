@@ -100,7 +100,7 @@ Possitive fitness: 5
 Recovered: 7
 
 
-Script 12. Generating a heatmap to show the comparison of fitness associated with # Pseudomonas simiae genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
+Script 12. Generating a heatmap to show the comparison of fitness associated with Pseudomonas simiae genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
 
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_PSimiae.R
 
