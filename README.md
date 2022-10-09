@@ -119,3 +119,11 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_sca
 Negative fitness: 27
 Possitive fitness: 12
 Recovered: 3
+
+Script 15. Scatter plot of Pseudomonas putida with spent media of Tmk3-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Tmk3Putida.R
+
+Negative fitness: 38
+Possitive fitness: 4
+Recovered: 1
+
