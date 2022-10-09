@@ -107,7 +107,12 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Gl
 _________________________________________________________________________________________________
 ### Scripts made for the analysis of the BarSeq results in Pseudomonas putida KT2440
 
+Script 13. Scatter plot of Pseudomonas putida with spent media of WT-Trichoderma: <br/>
 
+
+Negative fitness: 
+Possitive fitness: 
+Recovered:
 
 
 
