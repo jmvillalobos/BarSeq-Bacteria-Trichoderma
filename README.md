@@ -4,10 +4,7 @@
 UC Berkeley-LBNL
 
 
-
-This GitHub is to put all the generated scripts for the BarSeq analysis generated in the Trichoderma/bacteria interaction project. 
-This was done in the laboratory of Dr. Adam Deutschbauer and Dr. Louise Glass. These scripts are run once fitness tables are received 
-for each of the 4 bacteria on which the experiments were run.
+This GitHub is to show all the scripts that were made in the research project on the effect of Trichoderma atroviride exudates on 4 bacteria of the rhizosphere. These are analyzes on BarSeq results performed in the lab of Dr. Adam Deutschbauer and Dr. Louise Glass. These scripts are executed once the fitness tables are received, which have already been deposited in the fitness browser for internal use https://fit.genomics.lbl.gov/. For each of the 4 bacteria in which the interaction experiments were performed and with some drugs.
 
 _________________________________________________________________________________________________
 
