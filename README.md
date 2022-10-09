@@ -132,15 +132,16 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Gl
 ____________________________________________________________________________________________________________
 # BarSeq-Effect on Pseudomonas bacteria of pure toxins (Polymyxin B and Fusaric acid) at different concentrations.
 
-### Scripts made for the analysis of the BarSeq in P. simiae in response to Polymyxin B 0.003 mg/ml:
+### Scripts made for the analysis of the BarSeq in P. simiae in response to Polymyxin B 
+
+Script 17. 0.003 mg/ml:
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterSimiae_poly0.003.R
 
 Negative fitness: 119
 Possitive fitness: 54
 Recovered: 3
 
-
-### Scripts made for the analysis of the BarSeq in P. simiae in response to Polymyxin B 0.002 mg/ml:
+Script 18. 0.002 mg/ml:
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterSimiae_poly0.002.R
 
 
