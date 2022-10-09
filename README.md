@@ -148,3 +148,6 @@ https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_sca
 Negative fitness: 57
 Possitive fitness: 23
 Recovered: 0
+
+### Scripts made for the analysis of the BarSeq in P. simiae in response to Fusaric acid
+
