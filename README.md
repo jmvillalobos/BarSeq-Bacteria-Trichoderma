@@ -92,4 +92,12 @@ Possitive fitness: 0
 Recovered: 8
 
 
+Script 11. Scatter plot of Pseudomonas simiae with spent media of Tmk3-Trichoderma: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_Tmk3Simiae.R
+
+Negative fitness: 27
+Possitive fitness: 5
+Recovered: 7
+
+
 
