@@ -143,5 +143,10 @@ Possitive fitness: 54
 Recovered: 3
 
 
+### Scripts made for the analysis of the BarSeq in P. simiae in response to Polymyxin B 0.002 mg/ml:
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterSimiae_poly0.002.R
 
 
+Negative fitness: 57
+Possitive fitness: 23
+Recovered: 0
