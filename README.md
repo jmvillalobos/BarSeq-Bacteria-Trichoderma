@@ -129,3 +129,12 @@ Recovered: 1
 
 Script 16. Generating a heatmap to show the comparison of fitness associated with Pseudomonas putida KT2440 genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
 https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_PPutida.R
+
+
+
+____________________________________________________________________________________________________________
+# BarSeq-Effect on Pseudomonas bacteria of pure toxins (Polymyxin B and Fusaric acid) at different concentrations.
+
+### Scripts made for the analysis of the BarSeq in P. simiae in response to Polymyxin B 0.003 mg/ml:
+
+
