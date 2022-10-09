@@ -127,3 +127,5 @@ Negative fitness: 38
 Possitive fitness: 4
 Recovered: 1
 
+Script 16. Generating a heatmap to show the comparison of fitness associated with Pseudomonas putida KT2440 genes when exposed to exudates from the WT strain and Trichoderma mutants: <br/>
+https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/heatmap_Globalfitness_PPutida.R
