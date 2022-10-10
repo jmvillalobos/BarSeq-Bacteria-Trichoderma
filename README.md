@@ -159,6 +159,4 @@ Recovered: 4
 
 ### Scripts made for the analysis of the BarSeq in P. putida in response to Polymyxin B 
 
-Script 20.  0.001 mg/ml:: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_SimiaeFus120.R
-
-https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterPutida_poly0.001.R
+Script 20.  0.001 mg/ml: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterPutida_poly0.001.R
