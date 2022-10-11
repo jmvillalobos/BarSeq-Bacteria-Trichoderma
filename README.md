@@ -162,3 +162,10 @@ Recovered: 4
 Script 20.  0.001 mg/ml: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterPutida_poly0.001.R
 
 Script 21.  0.002 mg/ml: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatterPutida_poly0.002.R
+
+
+### Scripts made for the analysis of the BarSeq in P. putida in response to Fusaric acid
+
+
+
+Script 22. Fusaric acid  480, 240 and 120 ug/ml: https://github.com/jmvillalobos/BarSeq-Bacteria-Trichoderma/blob/main/script_scatter_PutidaFus480%2C240%26120ug:ml.R
